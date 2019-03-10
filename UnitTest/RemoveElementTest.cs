@@ -59,6 +59,8 @@ namespace UnitTest
         [TestMethod]
         public void ContainOnlyOneElementAtTheBeginning()
         {
+            //comment
+        
             var re = new RemoveElement();
             var list = new int[] { 4, 5 };
             var result = re.RemoveElem(list, 4);
