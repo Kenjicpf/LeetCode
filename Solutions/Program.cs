@@ -10,8 +10,8 @@ namespace Solutions
     {
         static void Main(string[] args)
         {
-            var test = new RemoveElement();
-            Console.WriteLine(test.RemoveElem(new int[] { 4,5}, 5));
+            var test = new ImplementStr();
+            Console.WriteLine(test.StrStr("", "a"));
             Console.ReadLine();
         }
     }
