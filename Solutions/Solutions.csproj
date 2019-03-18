@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FindPrimeNumber.cs" />
     <Compile Include="ImplementStr.cs" />
     <Compile Include="LongestPrefix.cs" />
     <Compile Include="MergeTwoSortedLists.cs" />
